@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping pattern="Quak_list_item" type="XML" />
+      <mapping pattern="earthquake_list" type="XML" />
     </extensionMap>
   </component>
 </application>
